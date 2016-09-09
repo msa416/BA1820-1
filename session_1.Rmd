@@ -10,8 +10,6 @@ output:
 ---
 
 
-
-test
 ```{r setup, echo = FALSE}
 library(knitr)
 library(rgl)
